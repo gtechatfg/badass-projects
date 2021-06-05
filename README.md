@@ -1,4 +1,4 @@
 ## Badass Projects
 
-A Library of badass projects by the µLearners..
+A Library of badass works by the µLearners..
 
